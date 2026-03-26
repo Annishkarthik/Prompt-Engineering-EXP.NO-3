@@ -43,5 +43,6 @@ Missing Word Prompting:
 • "In photosynthesis, plants absorb sunlight to produce ____."
 
 OUTPUT:
-
+Prompts were successfully designed for four different prompting types across multiple scenarios, demonstrating how each technique can guide AI responses effectively.
 RESULT: 
+The experiment shows that selecting appropriate prompt styles improves clarity, response quality, and task-specific accuracy in AI interactions.
